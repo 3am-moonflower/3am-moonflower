@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3am-moonflower or Mikayla (:
 - 👀 I’m interested in building my portfolio
 - 🎓 Associate in Web Systems
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, CS50 Cybersecurity, and more!
 - ⚡ Debugging generational cycles; Resetting the algorithm (;
 
 <!---
